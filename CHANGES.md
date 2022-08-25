@@ -2,6 +2,19 @@
 
 ## next
 ### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+
+## [1.8.1]
+### Added
 - Configure classpath for run-based tasks using `Info.plist` provided with IntelliJ SDK 2022.3+
 
 ### Changed
